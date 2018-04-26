@@ -1,16 +1,16 @@
 {
-  "name": "pomelo",
-  "version": "2.2.5",
+  "name": "lpomelo",
+  "version": "2.2.6",
   "homepage": "https://github.com/NetEase/pomelo",
   "repository": {
     "type": "git",
-    "url": "https://github.com/NetEase/pomelo.git"
+    "url": "https://github.com/li741355980/pomelo"
   },
   "scripts": {
     "test": "grunt"
   },
   "bugs": {
-    "url": "https://github.com/NetEase/pomelo/issues"
+    "url": "https://github.com/li741355980/pomelo/issues"
   },
   "licenses": [{
     "type": "MIT",
@@ -32,7 +32,7 @@
     "cliff": "0.1.8",
     "mkdirp": "0.3.3",
     "pomelo-loader": "0.0.6",
-    "pomelo-rpc": "1.0.7",
+    "lpomelo-rpc": "1.0.8",
     "pomelo-protocol": "0.1.6",
     "pomelo-admin": "1.0.0",
     "pomelo-logger": "0.1.7",
